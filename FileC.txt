@@ -1,1 +1,3 @@
 THis is FileCgit 
+Lets make change
+THis is for squash merge
