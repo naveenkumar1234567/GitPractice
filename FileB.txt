@@ -1,2 +1,2 @@
 This is FileB
-Making another change
+This is the change to FileA this is featureA
